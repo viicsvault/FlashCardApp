@@ -11,8 +11,6 @@ Reveals answer when the correct button is selected
 
 <img src="http://g.recordit.co/MIUnRsMa0f.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
-
 ## Required
 - [x] Create New Project in Xcode
 - [x] Add a view for the front side of the flashcard to display the question
